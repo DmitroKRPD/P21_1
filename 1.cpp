@@ -1,3 +1,3 @@
 main() {
-    int count = 6;
+    cout<<"hello world";
 }
